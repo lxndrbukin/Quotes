@@ -1,0 +1,30 @@
+.container {
+    margin: 25% auto 0%;
+    text-align: center;
+}
+
+.quote-box {
+    width: 600px;
+    height: auto;
+    border: 1px solid black;
+    font-size: 25px;
+    padding: 15px;
+    margin: auto;
+}
+
+.author {
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.new-quote {
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.new-quote:focus {
+    outline: none;
+}
